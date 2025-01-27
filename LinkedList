@@ -1,3 +1,8 @@
+class Node:
+    def __init__(self, value): #Creates a node( value + pointer)
+        self.value = value
+        self.next = None
+
 class Linkedlist:
     def __init__(self, value):
         new_node = Node(value) #Creates a new node using the node class and passes it a value
