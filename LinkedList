@@ -1,3 +1,5 @@
+"""Creates a Linked List in Python"""
+
 class Node:
     def __init__(self, value): #Creates a node( value + pointer)
         self.value = value
