@@ -1,4 +1,11 @@
-"""Creates a Linked List in Python"""
+"""
+20XX
+Created by JamesW
+Creates a Linked List in Python
+
+"""
+
+
 
 class Node:
     def __init__(self, value): #Creates a node( value + pointer)
